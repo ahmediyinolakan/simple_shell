@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "alx.h"
 
 /**
  * lookforslash - identifies if first char is a slash.
